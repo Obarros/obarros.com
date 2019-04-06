@@ -1,3 +1,3 @@
-# Personal, landing page.
+# Personal, landing page
 
-@Obarros.
+[Ozias Barros](https://obarros.me/)
