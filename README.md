@@ -1,3 +1,2 @@
 # Personal, landing page.
 
-@Obarros.
